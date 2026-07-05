@@ -99,6 +99,7 @@ SlideSense/
 **Harsh Rahul Meshram**
 B.Tech – Artificial Intelligence and Data Science
 Nagpur, Maharashtra, India
+
 Email: [harshr.meshram@gmail.com](mailto:harshr.meshram@gmail.com)
 GitHub: [https://github.com/harshrmeshram](https://github.com/harshrmeshram)
 
